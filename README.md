@@ -13,16 +13,20 @@
   엔더3 pro 개조 프린터
 
 * __보드__
+
   ender3보드 --> makerbase mks robin e3d v1.1
   tmc2209 4개 장비
 
 * __익스트루더__
+
   보우덴 방식 --> direct drive변경
 
 * __z축__
+
   싱글 z축 --> 듀얼 z축 변경
 
 ---
 
 * __추가__
+
   mks servo 42c 드라이버를 추가
