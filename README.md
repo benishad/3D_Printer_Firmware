@@ -10,7 +10,7 @@
 
 * __변경전 프린터 사진__
 
-<img src="https://user-images.githubusercontent.com/50231941/220642399-d5cc7a98-12ca-487e-a857-fda7f7f94824.jpg" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/50231941/220642399-d5cc7a98-12ca-487e-a857-fda7f7f94824.jpg" width="800" height="800"/>
 
 * __프린터 환경__
 
