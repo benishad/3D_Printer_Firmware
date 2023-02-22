@@ -8,6 +8,10 @@
 
 수정된 Configuration.h파일은 본인의 프린터 환경을 고려하여 수정해야 한다.
 
+* __변경전 프린터 사진__
+
+![before](https://user-images.githubusercontent.com/50231941/220642399-d5cc7a98-12ca-487e-a857-fda7f7f94824.jpg)
+
 * __프린터 환경__
 
   엔더3 pro 개조 프린터
