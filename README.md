@@ -18,12 +18,14 @@
 
 * __보드__
 
+  ![mks robin e3d](https://user-images.githubusercontent.com/50231941/220643423-28742787-64ac-4b8f-a75d-7186a11f1279.jpg)
   ender3보드 --> makerbase mks robin e3d v1.1
   tmc2209 4개 장비
 
 * __익스트루더__
 
   보우덴 방식 --> direct drive변경
+  ![direct drive](https://user-images.githubusercontent.com/50231941/220643196-0619b1f1-7cd2-4939-a790-e7e9ce6b8dc4.jpg)
 
 * __z축__
 
@@ -34,3 +36,6 @@
 * __추가__
 
   mks servo 42c 드라이버를 추가
+  ![servo42c](https://user-images.githubusercontent.com/50231941/220643606-ca506db8-3418-4b40-8f1c-76894ae722bc.jpg)
+
+  
