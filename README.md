@@ -10,7 +10,7 @@
 
 * __변경전 프린터 사진__
 
-  <img src="https://user-images.githubusercontent.com/50231941/220642399-d5cc7a98-12ca-487e-a857-fda7f7f94824.jpg" width="400" height="400"/>
+  <img src="https://user-images.githubusercontent.com/50231941/220642399-d5cc7a98-12ca-487e-a857-fda7f7f94824.jpg" width="500" height="500"/>
 
 * __프린터 환경__
 
@@ -18,7 +18,7 @@
 
 * __보드__
 
-  ![mks robin e3d](https://user-images.githubusercontent.com/50231941/220643423-28742787-64ac-4b8f-a75d-7186a11f1279.jpg)
+  <img src="https://user-images.githubusercontent.com/50231941/220643423-28742787-64ac-4b8f-a75d-7186a11f1279.jpg" width="500" height="500"/>
   ender3보드 --> makerbase mks robin e3d v1.1
   tmc2209 4개 장비
 
