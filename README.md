@@ -18,9 +18,9 @@
 
 * __보드__
 
-  <img src="https://user-images.githubusercontent.com/50231941/220643423-28742787-64ac-4b8f-a75d-7186a11f1279.jpg" width="500" height="500"/>
   ender3보드 --> makerbase mks robin e3d v1.1
   tmc2209 4개 장비
+  <img src="https://user-images.githubusercontent.com/50231941/220643423-28742787-64ac-4b8f-a75d-7186a11f1279.jpg" width="500" height="500"/>
 
 * __익스트루더__
 
